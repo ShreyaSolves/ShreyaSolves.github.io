@@ -1,1 +1,1 @@
-Sitemap: https://yourgithubusername.github.io/ShreyaSolves/sitemap.xml
+Sitemap: https://shreyasolves.github.io/sitemap.xml

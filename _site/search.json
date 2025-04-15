@@ -14,11 +14,18 @@
     "text": "I’m a Master’s student in Applied Business Analytics at Boston University, blending a background in Instrumentation Engineering with real-world experience at Schneider Electric, Worley, and Boston University Dining.\nI solve business problems with data, but my journey is bigger than just numbers — it’s about community, creativity, and impact. Here’s a glimpse:"
   },
   {
-    "objectID": "about.html#who-am-i",
-    "href": "about.html#who-am-i",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "✨ Master’s in Applied Business Analytics @ BU\n\n🛠️ Engineer turned Analyst with a creative twist\n\n🌱 Passionate about sustainability and data storytelling\n\nCheck out my projects →"
+    "text": "I’m a Master’s student in Applied Business Analytics at Boston University, blending a background in Instrumentation Engineering with real-world experience at Schneider Electric, Worley, and Boston University Dining.\nI solve business problems with data, but my journey is bigger than just numbers — it’s about community, creativity, and impact. Here’s a glimpse:"
+  },
+  {
+    "objectID": "about.html#highlights",
+    "href": "about.html#highlights",
+    "title": "About",
+    "section": "Highlights",
+    "text": "Highlights\n\n\n\n\n\nGraduate Engineer @ Worley\n\n\nWorked on sustainability-focused projects, collaborated across teams, and developed technical + business insight while pursuing Net Zero goals.\n\n\n\n\n\n\nProjects Intern @ Schneider Electric\n\n\nContributed to automation design, VFD projects, and helped align industrial systems to client needs.\n\n\n\n\n\n\n\nLead @ Google DSC RAIT\n\n\nOrganized 15+ events, bootcamps, and our first offline tech fest. Grew a vibrant student tech community through leadership and collaboration.\n\n\n\n\n\n\nHost @ CodeOS Podcast\n\n\nLed a podcast series with 90K+ views, featuring tech professionals across domains to help students crack interviews and discover roles.\n\n\n\n\n\n\nHackathon Judge\n\n\nGuest judge at Hack-a-Loud 2024, supporting young developers and celebrating creativity and innovation.\n\n\n\n\n\n\nEvent Host & Anchor\n\n\nHosted university-level auction events and tech fests — balancing energy, storytelling, and audience engagement.\n\n\n\n\n\n\nCommunity Work\n\n\nLed tree plantations, orphanage visits, blood donation drives, and taught at community centers with NSS + Social Wing RAIT.\n\n\n\n\n\n\nAramark – BU Dining\n\n\nPart-time employee managing invoices, inventory, and budgets — bridging operations and analytics with food perks on the side 🍽️\n\n\n\n\n\n\nVidyut – Sewage to Energy\n\n\nCo-created a sustainable energy solution converting sewage to electricity. A project rooted in purpose and driven by innovation."
   },
   {
     "objectID": "projects.html",
@@ -28,11 +35,11 @@
     "text": "Jackson Heights – Real Estate Analytics\n\n\nUsed predictive analytics to model seasonal trends and pricing, forecasted revenue impacts, and built interactive Power BI dashboards.\n\n\n\n\n\n\nLobster Land – Customer Segmentation\n\n\nAnalyzed ride and shopping trends to improve segmentation strategy and operational efficiency at an amusement park using Python and visualization tools.\n\n\n\n\n\n\nBrewery Feasibility Study\n\n\nBuilt sustainability models and financial forecasts to guide strategic decisions for a new brewery expansion in Milwaukee.\n\n\n\n\n\n\nIMD Help Desk Optimization\n\n\nApplied M/M/s queuing models to balance cost and service quality, improving workforce utilization and minimizing delays in IT support operations.\n\n\n\n\n\n\nSpotify Song Preference Model\n\n\nBuilt a machine learning model to predict whether a user would like a new song based on their previous liked tracks. Used classification algorithms, feature engineering, and song metadata to personalize music recommendations.\n\n\n\n\n\n\nVidyut – Sustainable Energy\n\n\nDesigned a sewage-to-electricity system using Arduino, MATLAB, and IoT. Focused on environmental sustainability, efficiency, and real-time monitoring.\n\n\n\n\n\n\nPratyaksh-3D – Augmented Reality\n\n\nCreated an AR platform for virtual furniture placement using MyWebAR, Blender, and depth estimation tools to improve customer retail experiences."
   },
   {
-    "objectID": "projects.html#featured-work",
-    "href": "projects.html#featured-work",
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
     "title": "Projects",
     "section": "",
-    "text": "Predictive modeling using logistic regression and random forest for passholder retention insights.\n\n\n\nConsulting for a Milwaukee-based eatery expanding into brewing, using simulations & cost models.\nLet’s connect →"
+    "text": "Jackson Heights – Real Estate Analytics\n\n\nUsed predictive analytics to model seasonal trends and pricing, forecasted revenue impacts, and built interactive Power BI dashboards.\n\n\n\n\n\n\nLobster Land – Customer Segmentation\n\n\nAnalyzed ride and shopping trends to improve segmentation strategy and operational efficiency at an amusement park using Python and visualization tools.\n\n\n\n\n\n\nBrewery Feasibility Study\n\n\nBuilt sustainability models and financial forecasts to guide strategic decisions for a new brewery expansion in Milwaukee.\n\n\n\n\n\n\nIMD Help Desk Optimization\n\n\nApplied M/M/s queuing models to balance cost and service quality, improving workforce utilization and minimizing delays in IT support operations.\n\n\n\n\n\n\nSpotify Song Preference Model\n\n\nBuilt a machine learning model to predict whether a user would like a new song based on their previous liked tracks. Used classification algorithms, feature engineering, and song metadata to personalize music recommendations.\n\n\n\n\n\n\nVidyut – Sustainable Energy\n\n\nDesigned a sewage-to-electricity system using Arduino, MATLAB, and IoT. Focused on environmental sustainability, efficiency, and real-time monitoring.\n\n\n\n\n\n\nPratyaksh-3D – Augmented Reality\n\n\nCreated an AR platform for virtual furniture placement using MyWebAR, Blender, and depth estimation tools to improve customer retail experiences."
   },
   {
     "objectID": "contact.html",
@@ -42,11 +49,11 @@
     "text": "I’m always up for conversations around data, strategy, design, or building cool things.\nFeel free to reach out or just say hi!\n\n📧 Email: shreyamanibu@gmail.com\n💼 LinkedIn\n🐙 GitHub\n\nWhether it’s brainstorming a project, collaborating on analytics, or grabbing coffee to talk ideas — I’d love to connect! ☕✨"
   },
   {
-    "objectID": "contact.html#reach-out",
-    "href": "contact.html#reach-out",
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
     "title": "Contact",
     "section": "",
-    "text": "📧 Email: yourname@email.com\n\n💼 LinkedIn\n\n🐙 GitHub"
+    "text": "I’m always up for conversations around data, strategy, design, or building cool things.\nFeel free to reach out or just say hi!\n\n📧 Email: shreyamanibu@gmail.com\n💼 LinkedIn\n🐙 GitHub\n\nWhether it’s brainstorming a project, collaborating on analytics, or grabbing coffee to talk ideas — I’d love to connect! ☕✨"
   },
   {
     "objectID": "index.html",
@@ -61,47 +68,5 @@
     "title": "shreya-portfolio",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "I’m a Master’s student in Applied Business Analytics at Boston University, blending a background in Instrumentation Engineering with real-world experience at Schneider Electric, Worley, and Boston University Dining.\nI solve business problems with data, but my journey is bigger than just numbers — it’s about community, creativity, and impact. Here’s a glimpse:"
-  },
-  {
-    "objectID": "projects.html#selected-work",
-    "href": "projects.html#selected-work",
-    "title": "Projects",
-    "section": "",
-    "text": "Used logistic regression + random forest to identify key churn drivers for a theme park membership.\n\n\n\nBuilt pricing simulations and inventory models for a food-and-beer business in Milwaukee.\n\n\n\nAnalyzed transaction trends in Jackson Heights using clustering and time series forecasting."
-  },
-  {
-    "objectID": "contact.html#lets-connect",
-    "href": "contact.html#lets-connect",
-    "title": "Contact",
-    "section": "",
-    "text": "I’m always up for conversations around data, strategy, design, or building cool things.\nFeel free to reach out or just say hi!\n\n📧 Email: shreyamanibu@gmail.com\n💼 LinkedIn\n🐙 GitHub\n\nWhether it’s brainstorming a project, collaborating on analytics, or grabbing coffee to talk ideas — I’d love to connect! ☕✨"
-  },
-  {
-    "objectID": "projects.html#selected-projects",
-    "href": "projects.html#selected-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Jackson Heights – Real Estate Analytics\n\n\nUsed predictive analytics to model seasonal trends and pricing, forecasted revenue impacts, and built interactive Power BI dashboards.\n\n\n\n\n\n\nLobster Land – Customer Segmentation\n\n\nAnalyzed ride and shopping trends to improve segmentation strategy and operational efficiency at an amusement park using Python and visualization tools.\n\n\n\n\n\n\nBrewery Feasibility Study\n\n\nBuilt sustainability models and financial forecasts to guide strategic decisions for a new brewery expansion in Milwaukee.\n\n\n\n\n\n\nIMD Help Desk Optimization\n\n\nApplied M/M/s queuing models to balance cost and service quality, improving workforce utilization and minimizing delays in IT support operations.\n\n\n\n\n\n\nSpotify Song Preference Model\n\n\nBuilt a machine learning model to predict whether a user would like a new song based on their previous liked tracks. Used classification algorithms, feature engineering, and song metadata to personalize music recommendations.\n\n\n\n\n\n\nVidyut – Sustainable Energy\n\n\nDesigned a sewage-to-electricity system using Arduino, MATLAB, and IoT. Focused on environmental sustainability, efficiency, and real-time monitoring.\n\n\n\n\n\n\nPratyaksh-3D – Augmented Reality\n\n\nCreated an AR platform for virtual furniture placement using MyWebAR, Blender, and depth estimation tools to improve customer retail experiences."
-  },
-  {
-    "objectID": "projects.html#my-projects",
-    "href": "projects.html#my-projects",
-    "title": "Work",
-    "section": "",
-    "text": "Lobster Land Model\n\n\n\n \n\nBrewery Feasibility\n\n\n\n \n\nNYC Real Estate"
-  },
-  {
-    "objectID": "about.html#highlights",
-    "href": "about.html#highlights",
-    "title": "About",
-    "section": "Highlights",
-    "text": "Highlights\n\n\n\n\n\nGraduate Engineer @ Worley\n\n\nWorked on sustainability-focused projects, collaborated across teams, and developed technical + business insight while pursuing Net Zero goals.\n\n\n\n\n\n\nProjects Intern @ Schneider Electric\n\n\nContributed to automation design, VFD projects, and helped align industrial systems to client needs.\n\n\n\n\n\n\n\nLead @ Google DSC RAIT\n\n\nOrganized 15+ events, bootcamps, and our first offline tech fest. Grew a vibrant student tech community through leadership and collaboration.\n\n\n\n\n\n\nHost @ CodeOS Podcast\n\n\nLed a podcast series with 90K+ views, featuring tech professionals across domains to help students crack interviews and discover roles.\n\n\n\n\n\n\nHackathon Judge\n\n\nGuest judge at Hack-a-Loud 2024, supporting young developers and celebrating creativity and innovation.\n\n\n\n\n\n\nEvent Host & Anchor\n\n\nHosted university-level auction events and tech fests — balancing energy, storytelling, and audience engagement.\n\n\n\n\n\n\nCommunity Work\n\n\nLed tree plantations, orphanage visits, blood donation drives, and taught at community centers with NSS + Social Wing RAIT.\n\n\n\n\n\n\nAramark – BU Dining\n\n\nPart-time employee managing invoices, inventory, and budgets — bridging operations and analytics with food perks on the side 🍽️\n\n\n\n\n\n\nVidyut – Sewage to Energy\n\n\nCo-created a sustainable energy solution converting sewage to electricity. A project rooted in purpose and driven by innovation."
   }
 ]

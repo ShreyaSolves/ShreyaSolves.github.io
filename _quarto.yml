@@ -3,6 +3,8 @@ project:
 
 website:
   title: "ShreyaSolves"
+  site-url: "https://shreyasolves.github.io"
+
   navbar:
     title: "ShreyaSolves"
     right:
