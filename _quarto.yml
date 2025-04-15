@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "ShreyaSolves"
+  navbar:
+    title: "ShreyaSolves"
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Work"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  page-footer:
+    center: "© 2025 Shreya Mani · Built with ❤️ using Quarto"
+
+format:
+  html:
+    theme: lux  # clean & modern base
+    css: styles.css
+    toc: false

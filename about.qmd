@@ -1,0 +1,89 @@
+---
+title: "About"
+format: html
+---
+
+## About Me
+
+I’m a Master’s student in Applied Business Analytics at Boston University, blending a background in Instrumentation Engineering with real-world experience at Schneider Electric, Worley, and Boston University Dining.  
+
+I solve business problems with data, but my journey is bigger than just numbers — it's about community, creativity, and impact. Here’s a glimpse:
+
+---
+
+## Highlights
+
+<div class="card-grid">
+
+<!-- Worley -->
+<div class="card fade-in">
+  <img src="images/worley.jpeg" alt="Worley Experience">
+  <div class="card-label">Graduate Engineer @ Worley</div>
+  <p>Worked on sustainability-focused projects, collaborated across teams, and developed technical + business insight while pursuing Net Zero goals.</p>
+</div>
+
+<!-- Schneider -->
+<div class="card fade-in">
+  <img src="images/schneider.jpeg" alt="Schneider Electric">
+  <div class="card-label">Projects Intern @ Schneider Electric</div>
+  <p>Contributed to automation design, VFD projects, and helped align industrial systems to client needs.</p>
+</div>
+
+<!-- GDSC Lead -->
+<div class="card fade-in">
+
+  <img src="images/gdsc.jpeg" alt="GDSC RAIT event 1" style="width: 100%; border-radius: 8px; margin-bottom: 0.5rem;">
+
+  <img src="images/gdsc2.png" alt="GDSC RAIT event 2" style="width: 100%; border-radius: 8px; margin-bottom: 0.75rem;">
+
+  <div class="card-label">Lead @ Google DSC RAIT</div>
+  <p>Organized 15+ events, bootcamps, and our first offline tech fest. Grew a vibrant student tech community through leadership and collaboration.</p>
+
+</div>
+
+
+
+
+<!-- Podcast Host -->
+<div class="card fade-in">
+  <img src="images/podcast.jpeg" alt="CodeOS Podcast">
+  <div class="card-label">Host @ CodeOS Podcast</div>
+  <p>Led a podcast series with 90K+ views, featuring tech professionals across domains to help students crack interviews and discover roles.</p>
+</div>
+
+<!-- Hackathon Judge -->
+<div class="card fade-in">
+  <img src="images/hackathon.png" alt="Hack-a-Loud Judging">
+  <div class="card-label">Hackathon Judge</div>
+  <p>Guest judge at Hack-a-Loud 2024, supporting young developers and celebrating creativity and innovation.</p>
+</div>
+
+<!-- Event Host & Auction Anchor -->
+<div class="card fade-in">
+  <img src="images/anchor.jpeg" alt="Auction Hosting">
+  <div class="card-label">Event Host & Anchor</div>
+  <p>Hosted university-level auction events and tech fests — balancing energy, storytelling, and audience engagement.</p>
+</div>
+
+<!-- Social Wing -->
+<div class="card fade-in">
+  <img src="images/social.jpeg" alt="Social Wing RAIT">
+  <div class="card-label">Community Work</div>
+  <p>Led tree plantations, orphanage visits, blood donation drives, and taught at community centers with NSS + Social Wing RAIT.</p>
+</div>
+
+<!-- West Campus Dining -->
+<div class="card fade-in">
+  <img src="images/aramark.jpeg" alt="Boston University Dining">
+  <div class="card-label">Aramark – BU Dining</div>
+  <p>Part-time employee managing invoices, inventory, and budgets — bridging operations and analytics with food perks on the side 🍽️</p>
+</div>
+
+<!-- Vidyut -->
+<div class="card fade-in">
+  <img src="images/vidyut.png" alt="Vidyut Project">
+  <div class="card-label">Vidyut – Sewage to Energy</div>
+  <p>Co-created a sustainable energy solution converting sewage to electricity. A project rooted in purpose and driven by innovation.</p>
+</div>
+
+</div>

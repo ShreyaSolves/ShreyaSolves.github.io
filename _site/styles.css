@@ -1,0 +1,168 @@
+:root {
+  --bg: #1e2432;
+  --text: #f5f6f7;
+  --accent: #f28c8c;
+  --hover: #e96e6e;
+  --card-bg: #2f3a50;
+  --label-bg: #f28c8c;
+  --label-text: #1e2432;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', sans-serif;
+  padding: 2rem;
+  margin: 0;
+}
+
+main {
+  max-width: 960px;
+  margin: auto;
+}
+
+h1, h2, h3 {
+  color: var(--accent);
+  font-weight: 700;
+  text-align: center;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--hover);
+  text-decoration: underline;
+}
+
+.navbar, .page-footer {
+  background-color: var(--bg);
+  border: none;
+  text-align: center;
+}
+
+.navbar-title, .nav-link {
+  color: var(--text) !important;
+  font-weight: 600;
+  margin-right: 1rem;
+}
+
+.page-footer {
+  font-size: 0.9rem;
+  color: #b8bac0;
+  padding-top: 2rem;
+  opacity: 0.85;
+}
+
+/* Card layout (About grid) */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #2f3a50; /* deep slate blue */
+  padding: 1rem;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  transition: transform 0.3s ease;
+  color: #f5f6f7; /* light text on dark card */
+}
+
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.card-label {
+  font-weight: 700;
+  color: var(--accent);  /* coral or pinkish highlight */
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+  transition: all 0.3s ease;
+}
+.card p {
+  color: #e2e2e2;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.navbar-title {
+  font-size: 1.4rem !important;
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.5px;
+  text-transform: none !important; /* Keeps it as ShreyaSolves, not all caps */
+  color: var(--accent) !important;
+}
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 100px;
+  margin-bottom: 1rem;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.profile-pic:hover {
+  transform: scale(1.05);
+}
+h1::after {
+  content: "";
+  display: block;
+  width: 60px;
+  margin: 0.5rem auto 1.5rem auto;
+  border-bottom: 2px solid var(--accent);
+  opacity: 0.6;
+}
+.section-divider {
+  text-align: center;
+  margin: 4rem 0 2rem 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #f2f2f2;
+  font-family: 'Georgia', serif;
+  position: relative;
+}
+
+.section-divider::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 2px;
+  margin: 0.8rem auto 0;
+  background: var(--accent);
+  opacity: 0.7;
+}
+

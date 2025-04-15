@@ -1,0 +1,60 @@
+---
+title: "Projects"
+format: html
+---
+
+## Selected Projects
+
+<div class="card-grid">
+
+<!-- NYC Real Estate -->
+<div class="card fade-in">
+  <img src="images/nyc.jpeg" alt="Jackson Heights Data">
+  <div class="card-label">Jackson Heights – Real Estate Analytics</div>
+  <p>Used predictive analytics to model seasonal trends and pricing, forecasted revenue impacts, and built interactive Power BI dashboards.</p>
+</div>
+
+<!-- Lobster Land -->
+<div class="card fade-in">
+  <img src="images/lobster.jpeg" alt="Lobster Land Project">
+  <div class="card-label">Lobster Land – Customer Segmentation</div>
+  <p>Analyzed ride and shopping trends to improve segmentation strategy and operational efficiency at an amusement park using Python and visualization tools.</p>
+</div>
+
+<!-- Brewery Feasibility -->
+<div class="card fade-in">
+  <img src="images/brewery.jpeg" alt="Brewery Expansion">
+  <div class="card-label">Brewery Feasibility Study</div>
+  <p>Built sustainability models and financial forecasts to guide strategic decisions for a new brewery expansion in Milwaukee.</p>
+</div>
+
+<!-- IMD Help Desk -->
+<div class="card fade-in">
+  <img src="images/helpdesk.jpeg" alt="IMD Help Desk Optimization">
+  <div class="card-label">IMD Help Desk Optimization</div>
+  <p>Applied M/M/s queuing models to balance cost and service quality, improving workforce utilization and minimizing delays in IT support operations.</p>
+</div>
+
+<!-- Spotify Prediction Model -->
+<div class="card fade-in">
+  <img src="images/spotify.jpeg" alt="Spotify song prediction model">
+  <div class="card-label">Spotify Song Preference Model</div>
+  <p>Built a machine learning model to predict whether a user would like a new song based on their previous liked tracks. Used classification algorithms, feature engineering, and song metadata to personalize music recommendations.</p>
+</div>
+
+
+<!-- VIDYUT -->
+<div class="card fade-in">
+  <img src="images/vidyut.jpeg" alt="Vidyut Project">
+  <div class="card-label">Vidyut – Sustainable Energy</div>
+  <p>Designed a sewage-to-electricity system using Arduino, MATLAB, and IoT. Focused on environmental sustainability, efficiency, and real-time monitoring.</p>
+</div>
+
+<!-- Pratyaksh-3D -->
+<div class="card fade-in">
+  <img src="images/pratyaksh.jpeg" alt="Pratyaksh-3D">
+  <div class="card-label">Pratyaksh-3D – Augmented Reality</div>
+  <p>Created an AR platform for virtual furniture placement using MyWebAR, Blender, and depth estimation tools to improve customer retail experiences.</p>
+</div>
+
+</div>

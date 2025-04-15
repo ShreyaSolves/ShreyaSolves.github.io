@@ -1,0 +1,14 @@
+---
+title: "ShreyaSolves"
+format: html
+---
+
+<div style="text-align: center;">
+  <img src="images/shreya.png" alt="Shreya Mani" class="profile-pic">
+</div>
+
+# Hi, I’m Shreya 🤍  
+Business analytics student with an engineering brain and a problem-solving heart.  
+I work at the intersection of data, strategy, and innovation.
+
+[→ explore more](about.qmd)

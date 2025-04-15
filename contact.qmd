@@ -1,0 +1,19 @@
+---
+title: "Contact"
+format: html
+---
+
+## Let’s Connect 🤝
+
+I'm always up for conversations around data, strategy, design, or building cool things.  
+Feel free to reach out or just say hi!
+
+---
+
+📧 Email: [shreyamanibu@gmail.com](mailto:shreyamanibu@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/talkingshreya/)  
+🐙 [GitHub](https://github.com/ShreyaSolves)
+
+---
+
+Whether it's brainstorming a project, collaborating on analytics, or grabbing coffee to talk ideas — I’d love to connect! ☕✨
